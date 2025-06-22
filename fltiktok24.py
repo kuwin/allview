@@ -1,9 +1,3 @@
-import requests, time,os,sys
-
-chars = "[«/»] :"
-
-os.system('cls' if os.name == 'nt' else 'clear')
-
 ban = f"""                        .-/+osssso+/-`\n                   `/sdNMMMMMMMMMMMMMMNds/`\n                .odMMMMMMMMMMMMMMMMMMMMMMMMdo.\n              :hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh:\n            -dMMMNmMMMMMMMNNNNNNNNNNMMMMMMMmNMMMd-\n          `sMNNs-oMMMMNNNNNNNNNNNNNNNNNNMMMMo-sNNMs\n         `dM+s-:sMMMNNNNNNMMNMNNMNMMNNNNNNMMMs-:s+Md`\n        `mho.h/:dMNNMMMNMMNmNoso-dmNMMNMMMNNMd:/d`ohm`\n        hs//::oMMNMMMMNMMMMNMmmo+NNMMMMNMMMMNMNo:-+:yh\n       /M--y+:hMNNNNNNNMMMNNMMmmMMNMMMMNNNNNNNMh:oy.:M:\n       dd+./.hMNMMMMMNMMMNNNNNooNNNNNMMMNMMMMMNMy./.odh\n      `M-m-/yyMNMMMMMNMMMMNMNdssdNMNMMMMNMMMMMNMyy/-m-N\n      `M:-ho`NMNNNNNNNNNmho-sN:/Ms-shmNNNNNNNNNMm`sh-/M`\n      `Mh`+ sdMNMMMMMh`     NMosMN     `dMMMMMNMdo`/`hN\n       d/h/.m.MNMMMMM+      yM--My      oMMMMMNM.m`/h/h\n       /d`/ss mNNNNNN-      `d.-h`      -NNNNNNd ss/`d:\n        hm/`+ d:mNMMN                    NMMNd:h`+`/mh\n        `doss/++.mNNh                    hNNm`o//ssod`\n         `ds.:+y-:sso                    osy:-y+--sd`\n           sMy+/:./+                      +/.:/+yMs\n            -dyo/////.```            ```./////ohh-\n              :hMhoosss/`            `/sssoohMh:\n                .ohysoos.            .soosyh+`\n                   `/sdN`            `Nds/`\n\n   ...:::: Telegram: mhttps://t.me/nhomspamcallsms ::::...                  
 """
 for i in ban:
